@@ -8,7 +8,7 @@ full_description: 'Blendart Photo Editor is completely a professional looking ap
 <br>- REMOVE BG
 <br>- PIXLAB'
 android: https://play.google.com/store/apps/details?id=com.Blendart.photoEditor.pro
-web: https://telegra.ph/Replace-this-link-07-23
+web: https://blendart.netlify.app
 screenshots:
   - img_1.png
   - img_2.png
