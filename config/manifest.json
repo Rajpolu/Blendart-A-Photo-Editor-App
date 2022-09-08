@@ -1,10 +1,10 @@
 {
-  "name": "Mobile App Name",
-  "short_name": "Mobile App Name",
+  "name": "Blendart - A Photo Editor App",
+  "short_name": "Blendart",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "/",
-  "description": "A super tagline for the mobile app",
+  "description": "Blendart is power packed with an amazing features that you can edit like a pro.",
   "scope": "/",
   "theme_color": "#efeeff",
   "background_color": "#efeeff"
