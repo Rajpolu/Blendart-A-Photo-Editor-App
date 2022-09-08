@@ -1,21 +1,23 @@
 name: Blendart - A Photo Editor App
-description: Blendart Photo Editor is completely a professional looking app and have capability of editing your photos with awesome features for free. You can easily edit your artwork in no time like a pro. 
-full_description: 'A more complete description of the mobile app<br>
-<br>With a lot of features:
-<br>- Feature 1
-<br>- Feature 2
-<br>- Feature 3'
-android: https://telegra.ph/Replace-this-link-07-23
-iOS: https://telegra.ph/Replace-this-link-07-23
+description: Blendart is power packed with an amazing features that you can edit like a pro.
+full_description: 'Blendart Photo Editor is completely a professional looking app and have capability of editing your photos with awesome features for free. You can easily edit your artwork in no time like a pro.<br>
+<br>Must-try features:
+<br>- DRIP
+<br>- NEON
+<br>- FILTER
+<br>- REMOVE BG
+<br>- PIXLAB'
+android: https://play.google.com/store/apps/details?id=com.Blendart.photoEditor.pro
 web: https://telegra.ph/Replace-this-link-07-23
 screenshots:
-  - 1.png
-  - 2.png
-  - 3.png
-  - 4.png
+  - img_1.png
+  - img_2.png
+  - img_3.png
+  - img_5.png
+  - img_6.png
+  - img_7.png
+  - img_8.png
 producthunt: https://telegra.ph/Replace-this-link-07-23
 companies:
-  - url: https://telegra.ph/Replace-this-link-07-23
-    image: androidpolice.png
   - url: https://telegra.ph/Replace-this-link-07-23
     image: producthunt.png
