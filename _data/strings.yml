@@ -4,13 +4,13 @@ app:
   featured: Featured in
 
 footer:
-  copyright: Made with ❤️ in Europe 🇪🇺 by <a href="https://www.sandoche.com" target="_blank">Sandoche</a>
+  copyright: Made with ❤️ in India 🇪🇺 by <a href="https://www.github.com/rajpolu" target="_blank">Rajpolu</a>
   links:
     - title: Github
-      url: https://github.com/sandoche/Mobile-app-landingpage-template
+      url: https://github.com/Rajpolu/Blendart-A-Photo-Editor-App
       target: _blank
     - title: Donate
-      url: https://paypal.me/kanbanote
+      url: https://paypal.me/rajpolu
       target: _blank
     - title: Privacy
       url: /privacy
